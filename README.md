@@ -1,3 +1,5 @@
+![alt text](https://img.shields.io/badge/guzztavofc-readme-%23GFCGFC)
+
 - 👋 Hi, I’m @guzztavofc and I go by Gustavo.
 - 👀 I’m interested in outdoor activities, technology, social impact and contributing to a better world.
 - 🌱 I’m adventuring in coding...
